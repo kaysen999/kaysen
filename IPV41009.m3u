@@ -1,0 +1,403 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV-1 综合
+http://222.241.154.37:9901/tsfile/live/23001_1.m3u8
+#EXTINF:-1 ,CCTV-2 财经
+http://222.241.154.37:9901/tsfile/live/23002_1.m3u8
+#EXTINF:-1 ,CCTV-3 综艺
+http://222.241.154.37:9901/tsfile/live/23003_1.m3u8
+#EXTINF:-1 ,CCTV-4 中文国际
+http://222.241.154.37:9901/tsfile/live/23004_1.m3u8
+#EXTINF:-1 ,CCTV-5 体育
+http://222.241.154.37:9901/tsfile/live/23005_1.m3u8
+#EXTINF:-1 ,CCTV-6 电影
+http://222.241.154.37:9901/tsfile/live/23006_1.m3u8
+#EXTINF:-1 ,CCTV-7 国防军事
+http://222.241.154.37:9901/tsfile/live/23007_1.m3u8
+#EXTINF:-1 ,CCTV-8 电视剧
+http://222.241.154.37:9901/tsfile/live/23008_1.m3u8
+#EXTINF:-1 ,CCTV-9 纪录
+http://222.241.154.37:9901/tsfile/live/23009_1.m3u8
+#EXTINF:-1 ,CCTV-10 科教
+http://222.241.154.37:9901/tsfile/live/23010_1.m3u8
+#EXTINF:-1 ,CCTV-11 戏曲
+http://222.241.154.37:9901/tsfile/live/23011_1.m3u8
+#EXTINF:-1 ,CCTV-12 社会与法
+http://222.241.154.37:9901/tsfile/live/23012_1.m3u8
+#EXTINF:-1 ,CCTV-13 新闻
+http://222.241.154.37:9901/tsfile/live/23013_1.m3u8
+#EXTINF:-1 ,CCTV-14 少儿
+http://222.241.154.37:9901/tsfile/live/23014_1.m3u8
+#EXTINF:-1 ,CCTV-15 音乐
+http://222.241.154.37:9901/tsfile/live/23015_1.m3u8
+#EXTINF:-1 ,CCTV-16 奥林匹克
+http://222.241.154.37:9901/tsfile/live/23016_1.m3u8
+#EXTINF:-1 ,CCTV-17 农业农村
+http://222.241.154.37:9901/tsfile/live/23017_1.m3u8
+#EXTINF:-1 ,CCTV-5+ 体育赛事
+http://222.241.154.37:9901/tsfile/live/23018_1.m3u8
+#EXTINF:-1 ,中国天气
+http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+#EXTINF:-1 ,CGTN-英语
+https://epg.pw/stream/eef2b281a9917d995116ada3ac32e08bb7646c69032836605df07796863a1cab.m3u8
+#EXTINF:-1 ,CGTN-纪录
+https://epg.pw/stream/31a9bf2ac753f3c4a820fe0fb1c8fbc9995d8c0dec874ff9e60a548e2cc896d2.m3u8
+#EXTINF:-1 ,CGTN-俄语
+https://epg.pw/stream/6121b01fb26a5be3ae517a1ab7310fb51948d1de596bb0f3cead41297bfa84b7.m3u8
+#EXTINF:-1 ,CGTN-法语
+https://epg.pw/stream/cf44a2785c7168d1328f507a814e036ac817c9c7890dfe0e909eb383609ebcc6.m3u8
+#EXTINF:-1 ,CGTN-西语
+https://epg.pw/stream/0f61bd806b866f29393a7136164cca9cbbb33ff8164860d21d39a52dfb54e397.m3u8
+#EXTINF:-1 ,CGTN-阿语
+https://epg.pw/stream/06c5a5053c524b666355da3903574c3f4f9d3c26808c38ef3f0478870ef8f8b4.m3u8
+#EXTINF:-1 ,CCTV+1
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 ,CCTV+2
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 ,湖南卫视
+http://222.241.154.37:9901/tsfile/live/23019_1.m3u8
+#EXTINF:-1 ,浙江卫视
+http://222.241.154.37:9901/tsfile/live/23028_1.m3u8
+#EXTINF:-1 ,江苏卫视
+http://222.241.154.37:9901/tsfile/live/23029_1.m3u8
+#EXTINF:-1 ,北京卫视
+http://222.241.154.37:9901/tsfile/live/23030_1.m3u8
+#EXTINF:-1 ,安徽卫视
+http://222.241.154.37:9901/tsfile/live/23031_1.m3u8
+#EXTINF:-1 ,天津卫视
+http://222.241.154.37:9901/tsfile/live/23032_1.m3u8
+#EXTINF:-1 ,东方卫视
+http://222.241.154.37:9901/tsfile/live/23033_1.m3u8
+#EXTINF:-1 ,江西卫视
+http://222.241.154.37:9901/tsfile/live/23034_1.m3u8
+#EXTINF:-1 ,深圳卫视
+http://222.241.154.37:9901/tsfile/live/23035_1.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://222.241.154.37:9901/tsfile/live/23036_1.m3u8
+#EXTINF:-1 ,东南卫视
+http://222.241.154.37:9901/tsfile/live/23037_1.m3u8
+#EXTINF:-1 ,广东卫视
+http://222.241.154.37:9901/tsfile/live/23038_1.m3u8
+#EXTINF:-1 ,广西卫视
+http://222.241.154.37:9901/tsfile/live/23039_1.m3u8
+#EXTINF:-1 ,山东卫视
+http://222.241.154.37:9901/tsfile/live/23040_1.m3u8
+#EXTINF:-1 ,四川卫视
+http://222.241.154.37:9901/tsfile/live/23041_1.m3u8
+#EXTINF:-1 ,重庆卫视
+http://222.241.154.37:9901/tsfile/live/23042_1.m3u8
+#EXTINF:-1 ,云南卫视
+http://222.241.154.37:9901/tsfile/live/23043_1.m3u8
+#EXTINF:-1 ,海南卫视
+http://222.241.154.37:9901/tsfile/live/23044_1.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://222.241.154.37:9901/tsfile/live/23045_1.m3u8
+#EXTINF:-1 ,贵州卫视
+http://222.241.154.37:9901/tsfile/live/23046_1.m3u8
+#EXTINF:-1 ,河北卫视
+http://222.241.154.37:9901/tsfile/live/23047_1.m3u8
+#EXTINF:-1 ,陕西卫视
+http://222.241.154.37:9901/tsfile/live/23048_1.m3u8
+#EXTINF:-1 ,安多卫视
+http://stream.qhbtv.com/adws/sd/live.m3u8
+#EXTINF:-1 ,厦门卫视
+https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv
+#EXTINF:-1 ,澳视澳门
+http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
+#EXTINF:-1 ,湖南-经视
+http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
+#EXTINF:-1 ,湖南-都市
+http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
+#EXTINF:-1 ,湖南-爱晚
+http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
+#EXTINF:-1 ,湖南-娱乐
+http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
+#EXTINF:-1 ,湖南-国际
+http://222.241.154.37:9901/tsfile/live/23024_1.m3u8
+#EXTINF:-1 ,湖南-电影
+http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
+#EXTINF:-1 ,湖南-电视剧
+http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
+#EXTINF:-1 ,湖南-教育
+http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
+#EXTINF:-1 ,吉林四平-新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+#EXTINF:-1 ,延边2台
+http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+#EXTINF:-1 ,黑龙江-文体
+https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
+#EXTINF:-1 ,黑龙江-都市
+https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
+#EXTINF:-1 ,黑龙江-新闻法制
+https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
+#EXTINF:-1 ,黑龙江-影视
+https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
+#EXTINF:-1 ,黑龙江-农业·科教
+https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
+#EXTINF:-1 ,黑龙江-少儿
+https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
+#EXTINF:-1 ,香港-環球电视台
+https://epg.pw/stream/2fe10d6406f74f21bd9e99d173a0b225c16b8a67d3aec20056a0c80ca0bcd0d7.m3u8
+#EXTINF:-1 ,广东-南国都市
+http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+#EXTINF:-1 ,浙江-钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 ,浙江-经济生活
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 ,浙江-教科
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 ,浙江-民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 ,浙江-新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 ,浙江-少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 ,浙江-国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 ,浙江-之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 ,Bread TV面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 ,B站-怀旧动画片放映厅
+https://cn-nmghhht-cu-01-09.bilivideo.com/live-bvc/847959/live_1391500233_48495228/index.m3u8
+#EXTINF:-1 ,B站-哈啤分社 相声直播
+https://cn-nmghhht-cu-01-10.bilivideo.com/live-bvc/805550/live_33208236_7002161_2500/index.m3u8
+#EXTINF:-1 ,iPanda-中国大熊猫保护研究中心
+https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
+#EXTINF:-1 ,iPanda-中国大熊猫保护研究中心
+https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2hd.m3u8
+#EXTINF:-1 ,iPanda-大丰麋鹿国家级自然保护区
+https://gcwbndtxy.liveplay.myqcloud.com/gcwbnd/xiongmao23_2_td.m3u8
+#EXTINF:-1 ,央视网-慢直播精选
+https://gctxyc.liveplay.myqcloud.com/gc/wgw05_1_md.m3u8
+#EXTINF:-1 ,央视网-西藏日喀则珠穆朗玛峰
+https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
+#EXTINF:-1 ,央视网-西藏林芝岷山错高民宿
+https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
+#EXTINF:-1 ,央视网-新疆昌吉州天山天池风景区
+https://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8
+#EXTINF:-1 ,央视网-甘肃敦煌鸣沙山月牙泉
+https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
+#EXTINF:-1 ,央视网-云南西双版纳千年古寨曼丢
+https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
+#EXTINF:-1 ,央视网-云南丽江玉龙雪山
+https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
+#EXTINF:-1 ,央视网-云南德宏勐焕大金塔
+https://gctxyc.liveplay.myqcloud.com/gc/dhyyqsm_1_md.m3u8
+#EXTINF:-1 ,央视网-四川乐山市峨眉山风景区
+https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
+#EXTINF:-1 ,Love Nrture 4K「自然」
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 ,俄罗斯中文
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Live Now FOX美国福克斯新闻
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,CNA新加坡亚洲新闻台
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 ,AXS TV Now
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 ,ABC Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 ,Newsmax
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 ,Al Jazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 ,NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 ,Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 ,KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 ,Bloomberg Asia
+https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
+#EXTINF:-1 ,CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 ,RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 ,TBS
+http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1 ,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 ,RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 ,Taiwan Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 ,Fashion TV
+http://91.247.68.229:8000/play/Fashion/index.m3u8
+#EXTINF:-1 ,Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 ,Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 ,Nickelodeon
+http://143.244.60.30/NICKELODEON/index.m3u8
+#EXTINF:-1 ,Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 ,NBA TV
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
+#EXTINF:-1 ,Universal Kids
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/252
+#EXTINF:-1 ,Nat Geo
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
+#EXTINF:-1 ,Start TV
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/1467
+#EXTINF:-1 ,The Weather Channel
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/301
+#EXTINF:-1 ,Pop
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
+#EXTINF:-1 ,WE TV
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/247
+#EXTINF:-1 ,Me TV
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/744
+#EXTINF:-1 ,SNY
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
+#EXTINF:-1 ,动感音乐台
+http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+#EXTINF:-1 ,格莱美音乐台
+http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
+#EXTINF:-1 ,潮流音乐
+http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+#EXTINF:-1 ,民谣蓝调
+http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
+#EXTINF:-1 ,舞迷心窍
+http://play-radio-stream3.hndt.com/now/WBhgSD3A/playlist.m3u8
+#EXTINF:-1 ,警广之声
+http://play-radio-stream3.hndt.com/now/prIgXGFo/playlist.m3u8
+#EXTINF:-1 ,心灵音乐馆
+http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
+#EXTINF:-1 ,80后音乐
+http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+#EXTINF:-1 ,经典FM
+http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+#EXTINF:-1 ,第1财经
+https://a1live.livecdn.yicai.com/live/yicai_radio.m3u8
+#EXTINF:-1 ,北京交通广播
+http://ls.qingting.fm/live/336.m3u8
+#EXTINF:-1 ,北京新闻广播
+http://ls.qingting.fm/live/339.m3u8
+#EXTINF:-1 ,北京文艺广播
+http://ls.qingting.fm/live/333.m3u8
+#EXTINF:-1 ,北京音乐广播
+http://ls.qingting.fm/live/332.m3u8
+#EXTINF:-1 ,北京城市广播
+https://brtv-radiolive.rbc.cn/alive/fm1073.m3u8
+#EXTINF:-1 ,北京体育广播
+https://brtv-radiolive.rbc.cn/alive/fm1025.m3u8
+#EXTINF:-1 ,CRI轻松调频
+http://sk.cri.cn/915.m3u8
+#EXTINF:-1 ,CRI华语环球
+http://sk.cri.cn/hyhq.m3u8
+#EXTINF:-1 ,CRI环球资讯
+http://sk.cri.cn/905.m3u8
+#EXTINF:-1 ,CRI南海之声
+https://sk.cri.cn/nhzs.m3u8
+#EXTINF:-1 ,CRI英语资讯
+http://sk.cri.cn/am846.m3u8
+#EXTINF:-1 ,CRI世界华声
+http://sk.cri.cn/hxfh.m3u8
+#EXTINF:-1 ,CNR文艺之声
+http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+#EXTINF:-1 ,CNR交通广播
+http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+#EXTINF:-1 ,CNR中国之声
+http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+#EXTINF:-1 ,CNR经济之声
+http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+#EXTINF:-1 ,CNR经典音乐
+http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+#EXTINF:-1 ,CNR神州之声
+http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+#EXTINF:-1 ,CNR阅读之声
+http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+#EXTINF:-1 ,CNR乡村之声
+http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+#EXTINF:-1 ,CNR湾区之声
+http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+#EXTINF:-1 ,CNR老年之声
+http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+#EXTINF:-1 ,CNR台海之声
+http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+#EXTINF:-1 ,CNR音乐之声
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+#EXTINF:-1 ,台中广播电台
+http://211.20.119.101:8081
+#EXTINF:-1 ,湖南旅游广播
+https://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
+#EXTINF:-1 ,湖南文艺广播
+https://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
+#EXTINF:-1 ,上海故事广播
+http://live.cooltv.top/tv/news1296.php?id=10
+#EXTINF:-1 ,四川文艺广播
+http://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
+#EXTINF:-1 ,山西文艺广播
+http://radiolive.sxrtv.com/live/wenyi/playlist.m3u8
+#EXTINF:-1 ,江苏文艺广播
+http://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
+#EXTINF:-1 ,江苏音乐广播
+http://live.cooltv.top/tv/ytradio.php?id=415
+#EXTINF:-1 ,湖南音乐之声
+http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
+#EXTINF:-1 ,江苏故事广播
+http://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
+#EXTINF:-1 ,广东音乐之声
+http://live.cooltv.top/tv/ytradio.php?id=489
+#EXTINF:-1 ,Hit FM劲曲
+http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
+#EXTINF:-1 ,南京音乐广播
+http://hls.njgb.com/live_hls/4/playlist.m3u8
+#EXTINF:-1 ,河北汽车音乐
+https://radio.pull.hebtv.com/live/hebqcyy.m3u8
+#EXTINF:-1 ,陕西音乐广播
+http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
+#EXTINF:-1 ,上海音乐广播
+http://live.cooltv.top/tv/news1296.php?id=8
+#EXTINF:-1 ,上海音乐电台
+http://live.cooltv.top/tv/news1296.php?id=9
+#EXTINF:-1 ,Love Radio
+http://live.cooltv.top/tv/news1296.php?id=7
+#EXTINF:-1 ,上海流行音乐
+http://live.cooltv.top/tv/news1296.php?id=4
+#EXTINF:-1 ,Cool Radio
+http://hls.njgb.com/live_hls/8/playlist.m3u8
+#EXTINF:-1 ,河北文艺广播
+http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
+#EXTINF:-1 ,全国广播
+http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
+#EXTINF:-1 ,天籁古典
+http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+#EXTINF:-1 ,天籁国风
+http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
+#EXTINF:-1 ,天籁之音 Hi-Fi
+http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
+#EXTINF:-1 ,天籁经典流行
+http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8
+#EXTINF:-1 ,摇滚天空
+http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
+#EXTINF:-1 ,国乐悠扬
+http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
+#EXTINF:-1 ,有声文摘
+http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
+#EXTINF:-1 ,安全百科
+http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
+#EXTINF:-1 ,民谣音乐台
+http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+#EXTINF:-1 ,BCC中广流行
+http://n14.rcs.revma.com/aw9uqyxy2tzuv
+#EXTINF:-1 ,BCC中广音乐
+http://n07.rcs.revma.com/ks4vsmg3qtzuv
+#EXTINF:-1 ,CityFM台南知音
+http://fm971.cityfm.tw:8080/971.mp3
+#EXTINF:-1 ,美国之音
+http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+#EXTINF:-1 ,BCC中广新闻
+http://n12.rcs.revma.com/78fm9wyy2tzuv
+#EXTINF:-1 ,Gold FM
+http://22903.live.streamtheworld.com:3690/GOLD905_PREM.aac
+#EXTINF:-1 ,Classic FM
+http://ice-sov.musicradio.com/ClassicFM
+#EXTINF:-1 ,NPR News
+https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/playlist.m3u8
+#EXTINF:-1 ,VOA环球英语
+http://voa-ingest.akamaized.net/hls/live/2035200/161_352R/playlist.m3u8
+#EXTINF:-1 ,RTI中央广播
+https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
+#EXTINF:-1 ,Times Radio
+http://timesradio.wireless.radio/stream
